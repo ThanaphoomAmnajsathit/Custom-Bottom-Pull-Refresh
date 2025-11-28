@@ -1,2 +1,2 @@
 # Custom-Bottom-Pull-Refresh
-![Demo GIF](screen_record.gif)
+<img src="screen_record.gif" width="400" height="250"/>
